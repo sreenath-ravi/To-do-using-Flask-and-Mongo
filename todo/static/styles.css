@@ -1,0 +1,48 @@
+body {
+	background: black;
+	font-family: 'Open Sans','Poppins', sans-serif;
+}
+
+.navbar-brand{
+    color: white;
+    font-weight: 600;
+}
+
+#wrapper {
+	margin-top: 10% !important;
+}
+#content {
+	background: #baffc9;
+	padding: 25px;
+    border-radius: 1rem;
+}
+#content > h2 {
+	font-size: 30px;
+    font-weight: 600;
+	text-align: center;
+	padding-top: 0;
+}
+
+
+
+.t10 {
+	margin-top: 10px;   
+}
+
+
+
+.t20 {
+	margin-top: 20px;
+    
+}
+
+
+
+.todo-completed {
+	text-decoration: line-through;
+	background: rgba(149, 165, 166, .3);
+}
+footer {
+	margin-top: 20px;
+	color: white;
+}
